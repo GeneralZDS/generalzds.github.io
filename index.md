@@ -1,5 +1,5 @@
 # About Me
-My name is Dongsheng Zhao. I'm currently pursuing the M.S. degree with the Image Transmission and Processing Laboratory, 
+My name is Dongsheng Zhao. I'm currently pursuing the M.E. degree with the Image Transmission and Processing Laboratory, 
 Xidian University, Xi'an, China under the supervision of A/Prof.Jie Lei and Prof.Yunsong Li
 
 # Research Interests
